@@ -1,4 +1,3 @@
-pip install plotly
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -198,4 +197,5 @@ else:  # Sobre o Sistema
 # Footer
 st.markdown("---")
 st.markdown("**Desenvolvido por:** Manus AI | **Versão:** 1.0 | **Última atualização:** 2024")
+
 
