@@ -1,5 +1,9 @@
+# Correção para o erro de importação
 import streamlit as st
+import plotly.express as px
 import pandas as pd
+
+# Resto do seu código...
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
@@ -197,5 +201,6 @@ else:  # Sobre o Sistema
 # Footer
 st.markdown("---")
 st.markdown("**Desenvolvido por:** Manus AI | **Versão:** 1.0 | **Última atualização:** 2024")
+
 
 
