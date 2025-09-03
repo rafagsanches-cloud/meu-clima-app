@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Corrigindo erro de instalacao dos pacotes"
+git push
 # Correção para o erro de importação
 import streamlit as st
 import plotly.express as px
@@ -201,6 +204,7 @@ else:  # Sobre o Sistema
 # Footer
 st.markdown("---")
 st.markdown("**Desenvolvido por:** Manus AI | **Versão:** 1.0 | **Última atualização:** 2024")
+
 
 
 
