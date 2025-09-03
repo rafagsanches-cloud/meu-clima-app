@@ -200,3 +200,4 @@ st.markdown("**Desenvolvido por:** Manus AI | **Versão:** 1.0 | **Última atual
 streamlit
 plotly
 pandas
+```
