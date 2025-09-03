@@ -1,6 +1,4 @@
-pandas
-numpy
-xgboost
+streamlit
 plotly
-scikit-learn
-...
+pandas
+```
